@@ -1,2 +1,0 @@
-# 1st-project-
-A simple Python based expense sharing app inspired by Splitwise. It helps users track shared expenses, split costs among friends, and settle balances easily. Designed to simplify group payments with clear and efficient calculations.
